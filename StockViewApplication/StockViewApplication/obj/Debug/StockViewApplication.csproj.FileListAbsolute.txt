@@ -1,0 +1,9 @@
+c:\users\rpoondla\documents\visual studio 2015\Projects\StockViewApplication\StockViewApplication\bin\Debug\StockViewApplication.exe.config
+c:\users\rpoondla\documents\visual studio 2015\Projects\StockViewApplication\StockViewApplication\bin\Debug\StockViewApplication.exe
+c:\users\rpoondla\documents\visual studio 2015\Projects\StockViewApplication\StockViewApplication\bin\Debug\StockViewApplication.pdb
+c:\users\rpoondla\documents\visual studio 2015\Projects\StockViewApplication\StockViewApplication\obj\Debug\StockViewApplication.csprojResolveAssemblyReference.cache
+c:\users\rpoondla\documents\visual studio 2015\Projects\StockViewApplication\StockViewApplication\obj\Debug\StockViewApplication.Properties.Resources.resources
+c:\users\rpoondla\documents\visual studio 2015\Projects\StockViewApplication\StockViewApplication\obj\Debug\StockViewApplication.StockViewForm.resources
+c:\users\rpoondla\documents\visual studio 2015\Projects\StockViewApplication\StockViewApplication\obj\Debug\StockViewApplication.csproj.GenerateResource.Cache
+c:\users\rpoondla\documents\visual studio 2015\Projects\StockViewApplication\StockViewApplication\obj\Debug\StockViewApplication.exe
+c:\users\rpoondla\documents\visual studio 2015\Projects\StockViewApplication\StockViewApplication\obj\Debug\StockViewApplication.pdb

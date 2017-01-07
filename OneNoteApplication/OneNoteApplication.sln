@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneNoteApplication", "OneNoteApplication\OneNoteApplication.csproj", "{106E07F9-2492-4BDB-93BE-A72B804E94FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneNoteApplication.Logging", "Logger\OneNoteApplication.Logging.csproj", "{7C52FABA-22BC-447A-A751-39EC940EC2FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneNoteApplication.UnitTest", "OneNoteApplication.UnitTest\OneNoteApplication.UnitTest.csproj", "{DD9C4864-9444-4422-B3F7-C4633458B395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{106E07F9-2492-4BDB-93BE-A72B804E94FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106E07F9-2492-4BDB-93BE-A72B804E94FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106E07F9-2492-4BDB-93BE-A72B804E94FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106E07F9-2492-4BDB-93BE-A72B804E94FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C52FABA-22BC-447A-A751-39EC940EC2FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C52FABA-22BC-447A-A751-39EC940EC2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C52FABA-22BC-447A-A751-39EC940EC2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C52FABA-22BC-447A-A751-39EC940EC2FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD9C4864-9444-4422-B3F7-C4633458B395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9C4864-9444-4422-B3F7-C4633458B395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9C4864-9444-4422-B3F7-C4633458B395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9C4864-9444-4422-B3F7-C4633458B395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

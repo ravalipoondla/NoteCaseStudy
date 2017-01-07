@@ -1,0 +1,15 @@
+C:\Users\rpoondla\Documents\Visual Studio 2015\Projects\OneNoteWebSite\OneNoteApplication.Service\bin\Debug\OneNoteApplication.Service.dll
+C:\Users\rpoondla\Documents\Visual Studio 2015\Projects\OneNoteWebSite\OneNoteApplication.Service\bin\Debug\OneNoteApplication.Service.pdb
+C:\Users\rpoondla\Documents\Visual Studio 2015\Projects\OneNoteWebSite\OneNoteApplication.Service\bin\Debug\McAfee.ProjectSLIM.Logger.dll
+C:\Users\rpoondla\Documents\Visual Studio 2015\Projects\OneNoteWebSite\OneNoteApplication.Service\bin\Debug\Microsoft.Synchronization.Data.dll
+C:\Users\rpoondla\Documents\Visual Studio 2015\Projects\OneNoteWebSite\OneNoteApplication.Service\bin\Debug\Microsoft.Synchronization.dll
+C:\Users\rpoondla\Documents\Visual Studio 2015\Projects\OneNoteWebSite\OneNoteApplication.Service\bin\Debug\Microsoft.Synchronization.Files.dll
+C:\Users\rpoondla\Documents\Visual Studio 2015\Projects\OneNoteWebSite\OneNoteApplication.Service\bin\Debug\Microsoft.Synchronization.MetadataStorage.dll
+C:\Users\rpoondla\Documents\Visual Studio 2015\Projects\OneNoteWebSite\OneNoteApplication.Service\bin\Debug\McAfee.ProjectSLIM.Logger.pdb
+C:\Users\rpoondla\Documents\Visual Studio 2015\Projects\OneNoteWebSite\OneNoteApplication.Service\bin\Debug\Microsoft.Synchronization.xml
+C:\Users\rpoondla\Documents\Visual Studio 2015\Projects\OneNoteWebSite\OneNoteApplication.Service\bin\Debug\Microsoft.Synchronization.Data.xml
+C:\Users\rpoondla\Documents\Visual Studio 2015\Projects\OneNoteWebSite\OneNoteApplication.Service\bin\Debug\Microsoft.Synchronization.Files.xml
+C:\Users\rpoondla\Documents\Visual Studio 2015\Projects\OneNoteWebSite\OneNoteApplication.Service\bin\Debug\Microsoft.Synchronization.MetadataStorage.xml
+C:\Users\rpoondla\Documents\Visual Studio 2015\Projects\OneNoteWebSite\OneNoteApplication.Service\obj\Debug\OneNoteApplication.Service.csprojResolveAssemblyReference.cache
+C:\Users\rpoondla\Documents\Visual Studio 2015\Projects\OneNoteWebSite\OneNoteApplication.Service\obj\Debug\OneNoteApplication.Service.dll
+C:\Users\rpoondla\Documents\Visual Studio 2015\Projects\OneNoteWebSite\OneNoteApplication.Service\obj\Debug\OneNoteApplication.Service.pdb
